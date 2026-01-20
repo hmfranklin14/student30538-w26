@@ -1,7 +1,7 @@
 ---
-title: "Kickoff - lecture 4"
+title: "Kickoff - lecture 5"
 author: "Peter Ganong and Maggie Shi"
-date-format: January 14/15, 2026
+date-format: January 20/21, 2026
 format: 
     revealjs:
         slide-number: true
@@ -14,6 +14,7 @@ format:
 * Quiz scores released on Canvas. Mean score for Tuesday sections is 56\%. Process question -- did you get a notification that scores were released?
 
 * Reminders
+    * Quiz today -- codespace optional, can use practice version in Canvas before lecture to test
     * PS2 due Saturday (deferred from last week)
     * Final [project proposal](https://canvas.uchicago.edu/courses/68386/quizzes/157996/take?preview=1) due Saturday -- click through. 
     * Optional office hours [sign up here](https://docs.google.com/spreadsheets/d/1LdJo1yJfd1Kq01neww5iWvlgrG_r8CDpaBISagN0C-U/edit?gid=0#gid=0) 
